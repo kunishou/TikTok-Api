@@ -172,7 +172,7 @@ class TikTokApi:
             "os": platform,
             "priority_region": "",
             "referer": "",
-            "region": "US",  # TODO: TikTokAPI option
+            "region": "JP",  # TODO: TikTokAPI option
             "screen_height": screen_height,
             "screen_width": screen_width,
             "tz_name": timezone,
